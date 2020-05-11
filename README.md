@@ -11,20 +11,33 @@ then type 'pipwin install pyaudio' and wait. pyaudio will be installed
 
 # Features
 
-Tells Time
-Tells date
-Tells Imformation
-Opens website which is been called
+Tells Time.
+
+Tells date.
+
+Tells Imformation.
+
+Opens website which is been called.
+
 Sends Emails.
 
 # Pros
-Tells Time
-Tells date
-Tells Imformation
-Opens website which is been called
+Tells Time.
+
+Tells date.
+
+Tells Imformation.
+
+Opens website which is been called.
+
 Sends Emails.
 
+
 # Cons
-Needs Active Internet connection
-Needs latest version of python
+
+Needs Active Internet connection.
+
+Needs latest version of python.
+
 Needs all the necessary libraries installed.
+
