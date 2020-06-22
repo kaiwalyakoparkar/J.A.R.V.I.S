@@ -1,5 +1,5 @@
 # Jarvis
-This is a personal assistant programme......
+This is a personal assistant which does your work autmatically when you give it a input as your voice. This project is inspired from Ironman Film.
 
 
 This are special notes and pip packages to be installed
